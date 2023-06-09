@@ -1,2 +1,2 @@
 #!/bin/bash
-cpu -u *.htm ..
+cp -u *.htm ../ 
